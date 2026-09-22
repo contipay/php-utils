@@ -3,7 +3,7 @@ PHP Util Scripts
 ## Installation
 
 ```
- composer require contipay/php-utils
+ composer require sanidesign/php-utils
 ```
 
 
