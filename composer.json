@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "name": "nigel2/utils",
-  "description": "Util Files",
+  "name": "nigel/util",
+  "description": "A collection of PHP utility classes for phone number validation and formatting, checksum generation, and SSL certificate generation.",
   "type": "library",
   "license": "MIT",
   "autoload": {
