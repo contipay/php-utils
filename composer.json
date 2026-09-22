@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "nigel/util",
+  "name": "contipay/php-utils",
   "description": "A collection of PHP utility classes for phone number validation and formatting, checksum generation, and SSL certificate generation.",
   "type": "library",
   "license": "MIT",

@@ -3,7 +3,7 @@ PHP Util Scripts
 ## Installation
 
 ```
- composer require nigel/util
+ composer require contipay/php-utils
 ```
 
 
