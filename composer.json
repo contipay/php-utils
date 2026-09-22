@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "name": "nigel/utils",
+  "version": "1.0.0",
+  "name": "nigel2/utils",
   "description": "Util Files",
   "type": "library",
   "license": "MIT",
@@ -11,12 +11,12 @@
   },
   "authors": [
     {
-      "name": "njzw",
+      "name": "Nigel Jaure",
       "email": "nigeljaure@icloud.com"
     }
   ],
   "minimum-stability": "stable",
   "require": {
-    "giggsey/libphonenumber-for-php": "^8.13"
+    "giggsey/libphonenumber-for-php": "^9.0"
   }
 }
