@@ -1,6 +1,6 @@
 <?php
 
-namespace Nigel\Utils\Core\Phone;
+namespace SanixAI\Utils\Core\Phone;
 
 class Phone
 {

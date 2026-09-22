@@ -1,6 +1,6 @@
 <?php
 
-namespace Nigel\Utils\Core\Phone;
+namespace SanixAI\Utils\Core\Phone;
 
 use libphonenumber\PhoneNumberUtil;
 use libphonenumber\PhoneNumberFormat;

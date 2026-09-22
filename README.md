@@ -18,7 +18,7 @@ This script is a PHP utility for generating SSL certificates, including private 
 ```php
 <?php
 
-use Nigel\Utils\Core\SSL\SSLGenerator;
+use SanixAI\Utils\Core\SSL\SSLGenerator;
 
 require_once './app/bootstrap.php';
 
@@ -68,7 +68,7 @@ This PHP script generates a checksum using Contipay's checksum algorithm for tra
 
 ```php
 <?php
-use Nigel\Utils\Core\Checksums\ContipayChecksum;
+use SanixAI\Utils\Core\Checksums\ContipayChecksum;
 
 require_once './app/bootstrap.php';
 
@@ -100,7 +100,7 @@ This script utilizes a custom wrapper around the 'giggsey/libphonenumber-for-php
 ```php
 <?php
 
-use Nigel\Utils\Core\Phone\Phone;
+use SanixAI\Utils\Core\Phone\Phone;
 
 require_once './app/bootstrap.php';
 

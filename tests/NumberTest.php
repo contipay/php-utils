@@ -2,7 +2,7 @@
 
 require_once __DIR__ . '/../app/bootstrap.php';
 
-use Nigel\Utils\Core\Phone\Phone;
+use SanixAI\Utils\Core\Phone\Phone;
 
 // Sample ZW numbers per carrier, matched against the carrier name from libphonenumber's mapper
 $cases = [

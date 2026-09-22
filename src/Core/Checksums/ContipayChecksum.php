@@ -1,6 +1,6 @@
 <?php
 
-namespace Nigel\Utils\Core\Checksums;
+namespace SanixAI\Utils\Core\Checksums;
 
 use Exception;
 

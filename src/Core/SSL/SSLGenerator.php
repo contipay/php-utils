@@ -1,6 +1,6 @@
 <?php
 
-namespace Nigel\Utils\Core\SSL;
+namespace SanixAI\Utils\Core\SSL;
 
 class SSLGenerator
 {
